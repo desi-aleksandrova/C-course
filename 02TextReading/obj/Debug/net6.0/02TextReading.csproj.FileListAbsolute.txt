@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\02TextReading\obj\Debug\net6.0\02TextReading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\02TextReading\obj\Debug\net6.0\02TextReading.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\02TextReading\obj\Debug\net6.0\02TextReading.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\02TextReading\obj\Debug\net6.0\02TextReading.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\02TextReading\bin\Debug\net6.0\02TextReading.exe
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\02TextReading\bin\Debug\net6.0\02TextReading.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\02TextReading\bin\Debug\net6.0\02TextReading.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\02TextReading\bin\Debug\net6.0\02TextReading.dll
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\02TextReading\bin\Debug\net6.0\02TextReading.pdb
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\02TextReading\obj\Debug\net6.0\02TextReading.dll
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\02TextReading\obj\Debug\net6.0\refint\02TextReading.dll
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\02TextReading\obj\Debug\net6.0\02TextReading.pdb
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\02TextReading\obj\Debug\net6.0\02TextReading.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\02TextReading\obj\Debug\net6.0\ref\02TextReading.dll

@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\03SquareArea\bin\Debug\net6.0\03SquareArea.exe
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\03SquareArea\bin\Debug\net6.0\03SquareArea.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\03SquareArea\bin\Debug\net6.0\03SquareArea.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\03SquareArea\bin\Debug\net6.0\03SquareArea.dll
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\03SquareArea\bin\Debug\net6.0\03SquareArea.pdb
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\03SquareArea\obj\Debug\net6.0\03SquareArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\03SquareArea\obj\Debug\net6.0\03SquareArea.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\03SquareArea\obj\Debug\net6.0\03SquareArea.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\03SquareArea\obj\Debug\net6.0\03SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\03SquareArea\obj\Debug\net6.0\03SquareArea.dll
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\03SquareArea\obj\Debug\net6.0\refint\03SquareArea.dll
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\03SquareArea\obj\Debug\net6.0\03SquareArea.pdb
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\03SquareArea\obj\Debug\net6.0\03SquareArea.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\03SquareArea\obj\Debug\net6.0\ref\03SquareArea.dll

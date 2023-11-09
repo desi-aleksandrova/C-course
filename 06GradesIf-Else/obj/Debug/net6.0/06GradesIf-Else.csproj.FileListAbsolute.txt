@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\06GradesIf-Else\bin\Debug\net6.0\06GradesIf-Else.exe
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\06GradesIf-Else\bin\Debug\net6.0\06GradesIf-Else.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\06GradesIf-Else\bin\Debug\net6.0\06GradesIf-Else.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\06GradesIf-Else\bin\Debug\net6.0\06GradesIf-Else.dll
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\06GradesIf-Else\bin\Debug\net6.0\06GradesIf-Else.pdb
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\06GradesIf-Else\obj\Debug\net6.0\06GradesIf-Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\06GradesIf-Else\obj\Debug\net6.0\06GradesIf-Else.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\06GradesIf-Else\obj\Debug\net6.0\06GradesIf-Else.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\06GradesIf-Else\obj\Debug\net6.0\06GradesIf-Else.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\06GradesIf-Else\obj\Debug\net6.0\06GradesIf-Else.dll
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\06GradesIf-Else\obj\Debug\net6.0\refint\06GradesIf-Else.dll
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\06GradesIf-Else\obj\Debug\net6.0\06GradesIf-Else.pdb
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\06GradesIf-Else\obj\Debug\net6.0\06GradesIf-Else.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\06GradesIf-Else\obj\Debug\net6.0\ref\06GradesIf-Else.dll

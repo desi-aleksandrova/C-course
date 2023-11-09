@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\05ExcellentGradeCheck\bin\Debug\net6.0\05ExcellentGradeCheck.exe
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\05ExcellentGradeCheck\bin\Debug\net6.0\05ExcellentGradeCheck.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\05ExcellentGradeCheck\bin\Debug\net6.0\05ExcellentGradeCheck.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\05ExcellentGradeCheck\bin\Debug\net6.0\05ExcellentGradeCheck.dll
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\05ExcellentGradeCheck\bin\Debug\net6.0\05ExcellentGradeCheck.pdb
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\05ExcellentGradeCheck\obj\Debug\net6.0\05ExcellentGradeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\05ExcellentGradeCheck\obj\Debug\net6.0\05ExcellentGradeCheck.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\05ExcellentGradeCheck\obj\Debug\net6.0\05ExcellentGradeCheck.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\05ExcellentGradeCheck\obj\Debug\net6.0\05ExcellentGradeCheck.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\05ExcellentGradeCheck\obj\Debug\net6.0\05ExcellentGradeCheck.dll
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\05ExcellentGradeCheck\obj\Debug\net6.0\refint\05ExcellentGradeCheck.dll
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\05ExcellentGradeCheck\obj\Debug\net6.0\05ExcellentGradeCheck.pdb
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\05ExcellentGradeCheck\obj\Debug\net6.0\05ExcellentGradeCheck.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\Desi_QA\QA Programming Fundamentals and Unit Testing - September 2023\01\Lab\05ExcellentGradeCheck\obj\Debug\net6.0\ref\05ExcellentGradeCheck.dll
